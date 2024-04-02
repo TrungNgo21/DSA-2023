@@ -10,7 +10,7 @@ public class SecretKeyGuesser {
       return 2;
     } else if (c == 'H') {
       return 3;
-    }git s
+    }
     return 4;
   }
 
